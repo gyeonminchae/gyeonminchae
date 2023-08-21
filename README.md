@@ -17,6 +17,7 @@
 <img src="https://img.shields.io/badge/Tidyverse-1A162D?style=flat-square&logo=Tidyverse&logoColor=white"/>
 <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=Markdown&logoColor=white"/>
 <img src="https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=Leaflet&logoColor=white"/>
+<img src="https://img.shields.io/badge/Openstreetmap-7EBC6F?style=flat-square&logo=Openstreetmap&logoColor=white"/>
 
 Tools<br>
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/> [포트폴리오 링크](https://www.notion.so/acb93d702dfe4283988064872268eaba)
