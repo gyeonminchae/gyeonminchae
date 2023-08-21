@@ -22,7 +22,7 @@
 <img src="https://img.shields.io/badge/Openstreetmap-7EBC6F?style=flat-square&logo=Openstreetmap&logoColor=white"/>
 
 Tools<br>
-<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/> [포트폴리오 링크](https://www.notion.so/acb93d702dfe4283988064872268eaba)
+<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/> [포트폴리오 링크](https://www.notion.so/acb93d702dfe4283988064872268eaba)<br>
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
 
 
