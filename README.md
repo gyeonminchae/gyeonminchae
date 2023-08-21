@@ -15,7 +15,7 @@
 <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/><br>
 <img src="https://img.shields.io/badge/Tidyverse-1A162D?style=flat-square&logo=Tidyverse&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=Markdown&logoColor=white"/>
 <!--
 **gyeonminchae/gyeonminchae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
