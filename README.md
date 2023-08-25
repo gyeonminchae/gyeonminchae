@@ -8,7 +8,7 @@
 
 ### Skills<br>
 
-|Classification|Tech Stack|
+|Classification|Technology Stack|
 |------|---|
 |Language|<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/>|
 |Data Handling|<img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=Numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Tidyverse-1A162D?style=flat-square&logo=Tidyverse&logoColor=white"/>|
