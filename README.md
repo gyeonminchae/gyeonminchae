@@ -7,7 +7,7 @@
 * 업무 성향상 목표 달성도 중요하지만 일의 과정에서 재미를 찾는 편이고, 세상에 긍정적 영향을 주는 일은 그 자체로 동기부여가 됩니다. 또한, 문제가 생겨도 그 상황 안에서 일을 진행할 수 있는 방향을 찾고, 함께 정한 기한은 반드시 지키려고 노력합니다.<br>
 * 각종 데이터에 대한 기본적인 이해를 바탕으로 머신러닝 및 딥러닝을 통해서 미래에 좀 더 나은 결정을 할 수 있도록 돕고자 노력하겠습니다.<br>
 
-#### Introduce Myself:[<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>](https://www.notion.so/acb93d702dfe4283988064872268eaba)
+#### Introduce Myself:[<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>](https://nervous-question-90c.notion.site/5c81e63e44614477b09365568e2612ee?pvs=4)
 
 ### Skills<br>
 
