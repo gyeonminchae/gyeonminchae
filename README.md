@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### Introduce Myself: [<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>](https://nervous-question-90c.notion.site/Resume-5c81e63e44614477b09365568e2612ee?pvs=4)
+#### Introduce Myself: [<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>]([https://nervous-question-90c.notion.site/Resume-5c81e63e44614477b09365568e2612ee?pvs=4](https://bloom-ball-0f4.notion.site/Resume-14c71359b0b580059f11f0ea48eaa7d1?pvs=4))
 #### My kaggle:[<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=skyblue"/>](https://www.kaggle.com/kmhae486)
 
 ### Skills<br>
